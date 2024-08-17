@@ -1,4 +1,4 @@
-👋 Hi, I’m @alysonfutral
-👀 My interest is AI/ML.
-🌱 I’m currently learning C++ and JavaScript, while continuing my progress in Java, Python, and HTML/CSS.
-🏫 My degree is in Computer Science and my graduation data is December, 2025.
+🌿 Welcome to my portfolio! 
+🌼 My name is @alysonfutral and my interest are AI/ML.
+🌺 I am currently seeking an internship relating to my degree in computer science.
+🍀 My graduation date is December, 2025.
